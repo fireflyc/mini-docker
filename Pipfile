@@ -1,0 +1,8 @@
+[[source]]
+url = "https://mirrors.ustc.edu.cn/pypi/web/simple"
+verify_ssl = false
+name = "pypi"
+
+
+[requires]
+python_version = '2.7'
